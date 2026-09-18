@@ -24,6 +24,8 @@ CyberPlayer T-800 — это современный лёгкий аудиопл�
 ## 📷 Screenshots / Скриншоты
 
 *(Сюда можно перетащить скриншоты плеера прямо мышкой)*
+<img width="1782" height="807" alt="Снимок экрана 2026-09-18 154742" src="https://github.com/user-attachments/assets/52098c2b-e656-4f0f-80ca-8308030a12f0" />
+<img width="1822" height="968" alt="Снимок экрана 2026-09-18 155234" src="https://github.com/user-attachments/assets/e26768ab-eac0-42f8-99a1-66a41c9fe850" />
 
 ---
 
