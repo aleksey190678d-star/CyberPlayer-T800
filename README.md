@@ -35,7 +35,13 @@ CyberPlayer T-800 — это современный лёгкий аудиопл�
 - **Результат:** 0/64 (Clean)
 - **Отчёт VirusTotal:** [Посмотреть отчёт](https://www.virustotal.com/gui/file/357b47eb3a0460bf914b2af3dfee3bbb7c7869c4192c67d7e70e826358f8ba56)
 
----
+
+
+  ## 🎬 Video Demo / Видео-демонстрация
+
+[![CyberPlayer T-800 Video Demo](https://img.youtube.com/vi/KlCBqfLfHIg/0.jpg)](https://youtu.be/KlCBqfLfHIg)
+
+*Нажмите на превью выше для просмотра видео на YouTube / Click above to watch video on YouTube*
 
 ## 🚀 Download / Скачать
 
